@@ -1,12 +1,32 @@
 ﻿<div align="center">
 
-## MSDN Articles - FYI<br/>by LaVolpe
+## MSDN Articles \- FYI
+
 
 </div>
 
 ### Description
 
 As I move closer to acquiring XP and also moving towards .Net, I came across these two pages on MSDN. One page is a free, softcopy book converting VB6 to .Net &amp; the other actually pertains to VB6 and Vista. I found them worthwhile, and you might too.
+ 
+### More Info
+ 
+
+
+<span>             |<span>
+---                |---
+**Submitted On**   |
+**By**             |[LaVolpe](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByAuthor/lavolpe.md)
+**Level**          |Beginner
+**User Rating**    |4.8 (43 globes from 9 users)
+**Compatibility**  |VB 6\.0
+**Category**       |[Miscellaneous](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByCategory/miscellaneous__1-1.md)
+**World**          |[Visual Basic](https://github.com/Planet-Source-Code/PSCIndex/blob/master/ByWorld/visual-basic.md)
+**Archive File**   |[](https://github.com/Planet-Source-Code/lavolpe-msdn-articles-fyi__1-66252/archive/master.zip)
+
+
+
+
 
 ### Source Code
 
